@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .................
 *****************
 >>>>>>>>>>>>>>>>>
@@ -23,3 +24,6 @@ mandatorily place all citizen-facing rules on their website. Officials will not 
 any rule not explicitly mentioned on the website clearly. Further, all laws, rules and regulations 
 will have to be presented as an updated, unified whole at all times. This will bring transparency 
 and simplify the understanding of regulations.
+=======
+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
+>>>>>>> 1edf9f056433d7d23a34af21391aaaeafd95bb9f
